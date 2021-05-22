@@ -17,4 +17,4 @@ pytest
 
 ## Is it any good
 
-Probably not but I had a lot of fun creating this project
+Probably not, but I had a lot of fun creating this project
